@@ -27,7 +27,20 @@ complete the following sections.
 
 ## Resources
 
+External Resources That may prove useful.
+
+### Free
+
+- Sites
+  1. [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+- YouTube
+  1. [LearnCode.academy: React JS Tutorial][2]
+  2. [LevelUpTuts: React For Everyone][3]
+
+### Non-Free
+
 1. [Udemy: Modern React with Redux](https://www.udemy.com/react-redux-tutorial/)
-2. [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
 [1]: https://www.freecodecamp.com/ (Free Code Camp)
+[2]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+[3]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p
