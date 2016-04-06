@@ -19,8 +19,8 @@ complete the following sections.
 
 **Working on Codepen**
 
-1. Setting up a Template on Codepen
-2. Hello World Component
+1. [Setting up a Template on Codepen](Setting-up-a-Template-on-Codepen)
+2. [Hello World Component](Hello-World-Component.md)
 3. Understanding React Lifecycles
 
 **Setting up a local Environment on cloud9**
