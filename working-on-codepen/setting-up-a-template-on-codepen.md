@@ -90,7 +90,7 @@ it so you either have to click the run button that will be added or press
 
 [1]: https://codepen.io/signup (Code Pen Signup)
 [2]: https://cdnjs.com/libraries/react/ (React CDN)
-[3]: ../README.md
+[3]: hello-world.md
 
 [figure 1]: images/create-new-pen.png (Create New Pen)
 [figure 2]: images/new-pen.png (New Pen Window)

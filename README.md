@@ -20,7 +20,7 @@ complete the following sections.
 **Working on Codepen**
 
 1. [Setting up a Template on Codepen][2]
-2. Hello World Component
+2. [Hello World Component][3]
 3. Understanding React Lifecyles
 
 **Setting up a local Enviornment on cloud9**
@@ -31,3 +31,4 @@ complete the following sections.
 
 [1]: https://www.freecodecamp.com/ (Free Code Camp)
 [2]: working-on-codepen/setting-up-a-template-on-codepen.md
+[3]: working-on-codepen/hello-world.md
