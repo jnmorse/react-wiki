@@ -28,7 +28,7 @@ complete the following sections.
 ## Resources
 
 1. [Udemy: Modern React with Redux](https://www.udemy.com/react-redux-tutorial/)
-2. [React.js Fundamentals](http://http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+2. [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
 [1]: https://www.freecodecamp.com/ (Free Code Camp)
 [2]: working-on-codepen/setting-up-a-template-on-codepen.md
