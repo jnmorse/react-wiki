@@ -1,6 +1,7 @@
 # Learning React.js
 
-Decided to start a wiki I could point people to and get people to contribute to, that can help people get started with working on React projects on [Free Code Camp][1].
+Decided to start a Wiki that people could use and contribute to, that
+would help them get started with React.
 
 ## Prerequisites
 
@@ -8,7 +9,8 @@ Decided to start a wiki I could point people to and get people to contribute to,
 - Basic JavaScript knowledge
 - Basis CSS knowledge
 
-If You don't already know these.  Please go to [Free Code Camp][1] and complete the following sections.
+If You don't already know these. Please go to [Free Code Camp][1] and
+complete the following sections.
 
 - HTML and CSS
 - Basic JavaScript
@@ -17,10 +19,15 @@ If You don't already know these.  Please go to [Free Code Camp][1] and complete 
 
 **Working on Codepen**
 
-1. Setting up a Template on Codepen
+1. [Setting up a Template on Codepen][2]
 2. Hello World Component
 3. Understanding React Lifecyles
 
 **Setting up a local Enviornment on cloud9**
 
+## Resources
+
+1. [Udemy: Modern React with Redux](https://www.udemy.com/react-redux-tutorial/)
+
 [1]: https://www.freecodecamp.com/ (Free Code Camp)
+[2]: working-on-codepen/setting-up-a-template-on-codepen.md
