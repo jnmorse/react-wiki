@@ -34,7 +34,7 @@ External Resources That may prove useful.
 - Sites
   1. [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - YouTube
-  1. [LearnCode.academy: React JS Tutorial][2]
+  1. [LearnCode.academy: React JS Tutorials][2]
   2. [LevelUpTuts: React For Everyone][3]
 
 ### Non-Free
