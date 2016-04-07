@@ -28,6 +28,7 @@ complete the following sections.
 2. [Hello World Component][3]
 
 ### React
+1. [Thinking React](Thinking-React.md)
 1. Components and Props
 2. [Stateless Functional Components](Stateless-Functional-Components.md)
 2. Understanding React Lifecyles
@@ -44,6 +45,7 @@ Here are some external sourced to learn React
 
 - Sites
   1. [React.js Fundamentals][4]
+  2. [React Documentation][8]
 - YouTube
   1. [LearnCode.academy: React JS Tutorials][5]
   2. [LevelUpTuts: React For Everyone][6]
@@ -59,3 +61,4 @@ Here are some external sourced to learn React
 [5]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 [6]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p1
 [7]: https://www.udemy.com/react-redux-tutorial/
+[8]: https://facebook.github.io/react/docs/getting-started.html
