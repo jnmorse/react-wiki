@@ -1,7 +1,7 @@
 # Stateless Functional Components
 
 Another type of component that you can use in React is known as a stateless
-functional component.  These components will have no state, or life-cycle
+functional component.  These components will have no state, or lifecycle
 methods but may make use of props.
 
 An example component that you might use as a stateless functional component

@@ -22,30 +22,40 @@ complete the following sections.
 
 ## Table of Contents
 
-**Working on Codepen**
+### Working on Codepen
 
 1. [Setting up a Template on Codepen][2]
 2. [Hello World Component][3]
-3. Understanding React Lifecyles
 
-**Setting up a local Enviornment on cloud9**
+### React
+1. Components and Props
+2. [Stateless Functional Components](Stateless-Functional-Components.md)
+2. Understanding React Lifecyles
+
+### Setting up a local Enviornment on cloud9
+
+1. Setting Up Your Dev Environment
 
 ## Resources
+
+Here are some external sourced to learn React
 
 ### Free
 
 - Sites
-  1. [React.js Fundamentals][2]
+  1. [React.js Fundamentals][4]
 - YouTube
-  1. [LearnCode.academy: React JS Tutorials][3]
-  2. [LevelUpTuts: React For Everyone][4]
+  1. [LearnCode.academy: React JS Tutorials][5]
+  2. [LevelUpTuts: React For Everyone][6]
 
 ### Non-Free
 
-1. [Udemy: Modern React with Redux][5]
+1. [Udemy: Modern React with Redux][7]
 
 [1]: https://www.freecodecamp.com/ (Free Code Camp)
-[2]: http://courses.reactjsprogram.com/courses/reactjsfundamental
-[3]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
-[4]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p1
-[5]: https://www.udemy.com/react-redux-tutorial/
+[2]: working-on-codepen/setting-up-a-template-on-codepen.md
+[3]: working-on-codepen/hello-world-component.md
+[4]: http://courses.reactjsprogram.com/courses/reactjsfundamental
+[5]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+[6]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p1
+[7]: https://www.udemy.com/react-redux-tutorial/
