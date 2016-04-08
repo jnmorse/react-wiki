@@ -2,7 +2,7 @@
 
 I'd welcome pull request from anyone.  Please be sure that if you are willing
 to contribute to this project, that you are willing to follow the
-[Code of Conduct](../CODE_OF_CONDUCT.md).
+[Code of Conduct](../CODE_OF_CONDUCT).
 
 If you don't want to tackle the contribution yourself or simply want to suggest
 an idea, you may open a issue under the issue tab.

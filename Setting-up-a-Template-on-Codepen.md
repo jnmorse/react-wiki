@@ -92,6 +92,6 @@ it so you either have to click the run button that will be added or press
 [2]: https://cdnjs.com/libraries/react/ (React CDN)
 [3]: hello-world.md
 
-[figure 1]: images/create-new-pen.png (Create New Pen)
-[figure 2]: images/new-pen.png (New Pen Window)
-[figure 3]: images/open-settings.png (Open The Settings Pane)
+[figure 1]: create-new-pen.png (Create New Pen)
+[figure 2]: new-pen.png (New Pen Window)
+[figure 3]: open-settings.png (Open The Settings Pane)
