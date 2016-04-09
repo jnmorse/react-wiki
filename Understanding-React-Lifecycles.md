@@ -16,71 +16,23 @@ here implies.
 If a component is unmount and then mounted again later, the lifecycles will be
 called again.
 
-## Difference Between Mounted and Unmounted Components
+## List of Lifecyles
 
-A mounted component is a component that is currently active and in use. While
-an unmounted component exist but at this current point in time is not being
-utilized.
+1. componentWillMount
+2. componentDidMount
+3. componentWillRecieveProps
+4. shouldComponentUpdate
+5. componentWillUpdate
+6. componentDidUpdate
+7. componentWillUnmount
 
-For instance take this example.
+## Additonal Component Specs
 
-```JavaScript
-const { Component } = React
-const { render } = ReactDOM
+1. [getInitalState](Get-Intial-State)
+1. [getDefaultProps](Get-Default-Props)
 
-class ErrorNotify extends Component {
-  constructor(props) {
-    super(props)
+## Other Resources on Lifecycles
 
-    this.state {
-      error: false,
-      message: ''
-    }
-  }
+1. [Official Documentation: Component Specs and Lifecycle][1]
 
-  componentWillRecieveProps(state) {
-    this.setState({ state })
-  }
-
-  render() {
-    if (state.error) {
-      return <Message text={this.state.message} />
-    } else {
-      return null
-    }
-  }
-}
-
-render(
-  <ErrorNotify />
-  , document.getElementById('app')
-)
-```
-
-In this example, imaging ErrorNotify is being used as a child of another
-component, and its purpose is to display an error message if there is an error.
-
-
-The following are the various lifecycle methods, in rough order that they take
-place, and some use cases for the method.
-
-```javascript
-const { Component } = React
-
-class ExampleComponent extends Component {
-  constructor(props) {
-    super(props)
-
-    this.state = {
-      example: true
-    }
-  }
-
-  // These Methods only happen once
-  componentWillMount() {}
-  componentDidMount() {}
-}
-
-```
-
-## componentWillMount
+[1]: https://facebook.github.io/react/docs/component-specs.html

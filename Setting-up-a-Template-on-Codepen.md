@@ -80,7 +80,7 @@ Don't worry about adding any additional content at this time.  Our template
 largely ready to be used.
 
 We will add some initial content to our template in the section,
-"[Hello World Component](Hello-World-Component.md)"
+"[Hello World Component](Hello-World-Component)"
 
 ### Optional
 
