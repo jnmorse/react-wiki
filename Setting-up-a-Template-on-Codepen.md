@@ -80,7 +80,7 @@ Don't worry about adding any additional content at this time.  Our template
 largely ready to be used.
 
 We will add some initial content to our template in the section,
-"[Hello World Component][3]"
+"[Hello World Component](Hello-World-Component.md)"
 
 ### Optional
 
@@ -90,7 +90,6 @@ it so you either have to click the run button that will be added or press
 
 [1]: https://codepen.io/signup (Code Pen Signup)
 [2]: https://cdnjs.com/libraries/react/ (React CDN)
-[3]: hello-world.md
 
 [figure 1]: create-new-pen.png (Create New Pen)
 [figure 2]: new-pen.png (New Pen Window)
