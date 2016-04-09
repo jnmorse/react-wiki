@@ -12,7 +12,7 @@ use the React-Webpack repo maintained by Joseph Morse.
   1. [Thinking React](Thinking-React)
   2. Components and Props
   3. [Stateless Functional Components](Stateless-Functional-Components)
-  4. Understanding React Lifecyles
+  4. [Understanding React Lifecyles](Understanding-React-Lifecycles)
 3. Setting up a local Enviornment on cloud9
   1. Setting Up Your Dev Environment
 4. Working Locally
