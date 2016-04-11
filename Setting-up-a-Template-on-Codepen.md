@@ -39,9 +39,9 @@ down list.
 
 Then under "Add External JavaScript" you will want to add these two urls.
 
-https://cdnjs.cloudflare.com/ajax/libs/react/0.14.8/react.js
+https://cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react.js
 
-https://cdnjs.cloudflare.com/ajax/libs/react/0.14.8/react-dom.js
+https://cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react-dom.js
 
 Once those are set, click CSS and select the CSS Preprocessor SCSS.  You could
 choose Sass if you prefer, but I will be using the SCSS version of Sass.
