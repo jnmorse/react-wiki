@@ -9,7 +9,7 @@ Some Additional Resources to use
   2. [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - YouTube
   1. [LearnCode.academy: React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-  2. [LevelUpTuts: React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p1)
+  2. [LevelUpTuts: React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 
 ## Non-Free
 
