@@ -4,13 +4,28 @@ Some Additional Resources to use
 
 ## Free
 
-- Sites
-  1. [React.js Fundamentals]( http://courses.reactjsprogram.com/courses/reactjsfundamental)
-  2. [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
-- YouTube
-  1. [LearnCode.academy: React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-  2. [LevelUpTuts: React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+- Sites:
+  1. [React.js Fundamentals][site 1]
+  2. [React Documentation][site 2]
+- YouTube:
+  1. [LearnCode.academy: React JS Tutorials][YouTube 1]
+  2. [LevelUpTuts: React For Everyone][YouTube 2]
+- Articles:
+  1. [React: A (Very brief) talk about immutability][article 1]
 
 ## Non-Free
 
-1. [Udemy: Modern React with Redux](https://www.udemy.com/react-redux-tutorial/)
+- Udemy Courses:
+  1. [Udemy: Modern React with Redux][udemy 1]
+  1. [Udemy: Advanced React and Redux][udemy 2]
+
+[site 1]: http://courses.reactjsprogram.com/courses/reactjsfundamental
+[site 2]: https://facebook.github.io/react/docs/getting-started.html
+
+[YouTube 1]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+[YouTube 2]: https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.heo4ruds4
+
+[article 1]: https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.heo4ruds4
+
+[udemy 1]: https://www.udemy.com/react-redux/
+[udemy 2]: https://www.udemy.com/react-redux-tutorial/
