@@ -10,7 +10,7 @@ use the React-Webpack repo maintained by Joseph Morse.
   2. [Hello World Component](Hello-World-Component)
 2. React
   1. [Thinking React](Thinking-React)
-  2. Components and Props
+  2. [Components and Props](Components-and-Props)
   3. [Stateless Functional Components](Stateless-Functional-Components)
   4. [Understanding React Lifecyles](Understanding-React-Lifecycles)
 3. Setting up a local Enviornment on cloud9
