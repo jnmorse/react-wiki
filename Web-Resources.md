@@ -23,7 +23,7 @@ Some Additional Resources to use
 [site 2]: https://facebook.github.io/react/docs/getting-started.html
 
 [YouTube 1]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
-[YouTube 2]: https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.heo4ruds4
+[YouTube 2]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p
 
 [article 1]: https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.heo4ruds4
 
