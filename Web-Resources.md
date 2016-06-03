@@ -20,6 +20,11 @@ Some Additional Resources to use
   1. [Udemy: Modern React with Redux][udemy 1]
   1. [Udemy: Advanced React and Redux][udemy 2]
 
+## Tooling
+
+- Webpack:
+  1. [SurviveJS Webpack][tooling 1]
+
 [site 1]: http://courses.reactjsprogram.com/courses/reactjsfundamental
 [site 2]: https://facebook.github.io/react/docs/getting-started.html
 
@@ -31,3 +36,5 @@ Some Additional Resources to use
 
 [udemy 1]: https://www.udemy.com/react-redux/
 [udemy 2]: https://www.udemy.com/react-redux-tutorial/
+
+[tooling 1]: http://survivejs.com/webpack/introduction/
