@@ -37,6 +37,7 @@ Some Additional Resources to use
 
 [udemy 1]: https://www.udemy.com/react-redux/
 [udemy 2]: https://www.udemy.com/react-redux-tutorial/
+[udemy 3]: https://www.udemy.com/meteor-react-tutorial/
 
 [tooling 1]: http://survivejs.com/webpack/introduction/
 [tooling 2]: https://blog.madewithlove.be/post/webpack-your-bags
