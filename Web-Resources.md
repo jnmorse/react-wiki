@@ -24,6 +24,7 @@ Some Additional Resources to use
 
 - Webpack:
   1. [SurviveJS Webpack][tooling 1]
+  2. [Webpack Your Bags][tooling 2]
 
 [site 1]: http://courses.reactjsprogram.com/courses/reactjsfundamental
 [site 2]: https://facebook.github.io/react/docs/getting-started.html
@@ -38,3 +39,4 @@ Some Additional Resources to use
 [udemy 2]: https://www.udemy.com/react-redux-tutorial/
 
 [tooling 1]: http://survivejs.com/webpack/introduction/
+[tooling 2]: https://blog.madewithlove.be/post/webpack-your-bags
