@@ -18,7 +18,8 @@ Some Additional Resources to use
 
 - Udemy Courses:
   1. [Udemy: Modern React with Redux][udemy 1]
-  1. [Udemy: Advanced React and Redux][udemy 2]
+  2. [Udemy: Advanced React and Redux][udemy 2]
+  2. [Udemy: Meteor and React for Realtime Apps][udemy 3]
 
 ## Tooling
 
