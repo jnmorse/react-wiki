@@ -10,6 +10,7 @@ Some Additional Resources to use
 - YouTube:
   1. [LearnCode.academy: React JS Tutorials][YouTube 1]
   2. [LevelUpTuts: React For Everyone][YouTube 2]
+  3. [Learn Redux][YouTube 3]
 - Articles:
   1. [React: A (Very brief) talk about immutability][article 1]
   2. [Manging State and Forms with React][article 2]
@@ -32,6 +33,7 @@ Some Additional Resources to use
 
 [YouTube 1]: https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 [YouTube 2]: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p
+[YouTube 3]: https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy
 
 [article 1]: https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.heo4ruds4
 [article 2]: https://medium.com/@gaperton/managing-state-and-forms-with-react-part-1-12eacb647112#.pjop3rngj
